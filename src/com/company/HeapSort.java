@@ -1,6 +1,7 @@
 package com.company;
 
-import java.util.*;
+import java.util.PriorityQueue;
+import java.util.Queue;
 
 /**
  * Created by pratap on 10/14/16.

@@ -1,6 +1,7 @@
 package com.company;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * Created by pratap on 10/15/16.

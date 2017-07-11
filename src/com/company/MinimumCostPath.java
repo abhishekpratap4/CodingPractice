@@ -6,8 +6,6 @@ package com.company;
 /* Java program for Dynamic Programming implementation
 of Min Cost Path problem */
 
-import java.util.*;
-
 class MinimumCostPath {
 
     static int DP[][];

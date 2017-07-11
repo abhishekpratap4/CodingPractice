@@ -1,7 +1,5 @@
 package com.company;
 
-import com.sun.tools.jdi.DoubleValueImpl;
-
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;

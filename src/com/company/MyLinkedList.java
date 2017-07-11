@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.Scanner;
-import java.util.Stack;
 
 /**
  * Created by pratap on 10/11/16.

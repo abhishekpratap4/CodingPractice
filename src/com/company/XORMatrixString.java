@@ -1,7 +1,7 @@
 package com.company;
 
 import java.math.BigInteger;
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * Created by pratap on 10/15/16.

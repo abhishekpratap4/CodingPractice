@@ -4,12 +4,6 @@ package com.company;
  * Created by pratap on 4/16/17.
  */
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-
 public class MedianOptimized {
 
     public static void main(String[] args) {

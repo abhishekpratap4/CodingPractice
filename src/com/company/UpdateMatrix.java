@@ -1,9 +1,6 @@
 package com.company;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.PriorityQueue;
 
 /**
  * Created by pratap on 4/2/17.

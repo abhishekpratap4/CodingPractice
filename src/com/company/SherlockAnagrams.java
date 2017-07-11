@@ -1,9 +1,9 @@
 package com.company;
 
-import com.sun.javafx.css.Combinator;
-
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.LinkedList;
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * Created by pratap on 10/16/16.

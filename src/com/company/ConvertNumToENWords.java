@@ -4,8 +4,7 @@ package com.company;
  * Created by pratap on 4/9/17.
  */
 
-import java.sql.Connection;
-import java.util.*;
+import java.util.HashMap;
 
 public class ConvertNumToENWords {
 

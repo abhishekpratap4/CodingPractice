@@ -1,6 +1,7 @@
 package com.company;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by pratap on 4/14/17.

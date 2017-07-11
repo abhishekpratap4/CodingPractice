@@ -1,6 +1,8 @@
 package com.company;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
 
 /**
  * Created by pratap on 10/15/16.

@@ -1,7 +1,7 @@
 package com.company;
 
-import java.util.*;
 import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * Created by pratap on 2/23/17.

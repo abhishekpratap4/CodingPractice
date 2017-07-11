@@ -5,11 +5,7 @@ package com.company;
  */
 
 
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
 class gfg {
     // This function should reverse linked list and return

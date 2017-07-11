@@ -1,7 +1,6 @@
 package com.company;
 
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -24,8 +23,8 @@ public class NQueen {
         NQueen queen = new NQueen();
         int x = 1;
         char c = (char)x;
-        System.out.println(Character.forDigit(9,10));
-        //queen.solveNQueens(4);
+        //System.out.println(Character.forDigit(9,10));
+        queen.solveNQueens(4);
     }
 
     public void solveNQueens(int n) {

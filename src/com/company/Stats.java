@@ -5,7 +5,10 @@ package com.company;
  */
 
 import java.util.*;
-import java.util.concurrent.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 
 public class Stats {
     public static class StatisticsAggregatorImpl implements StatisticsAggregator {

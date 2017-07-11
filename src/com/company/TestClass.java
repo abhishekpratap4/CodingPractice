@@ -12,7 +12,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 */
 //import for Scanner and other utility classes
-import java.util.*;
+
+import java.util.Scanner;
 
 
 class TestClass {

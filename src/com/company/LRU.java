@@ -1,7 +1,6 @@
 package com.company;
 
-import java.util.*;
-import java.util.LinkedList;
+import java.util.HashMap;
 
 /**
  * Created by pratap on 2/3/17.
